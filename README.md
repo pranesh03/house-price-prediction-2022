@@ -21,4 +21,4 @@ Models are evaluated using the following metrics:
 Mean Squared Error (MSE): Measures the average squared difference between actual and predicted values.
 R-squared (R²): Indicates the proportion of variance in the target variable explained by the model.
 
-In this project We successfully built and evaluated a machine learning model using the Boston housing dataset to predict housing prices in Boston. XGBoostregressor gave the best results. This indicates that the cluster method outperforms simple models such as linear regression.
+In this project We successfully built and evaluated a machine learning model using the Boston housing dataset to predict housing prices in Boston. XGBoostregressor gave the best results.
